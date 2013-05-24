@@ -1,7 +1,7 @@
-Haribo
-Cheese
-Socks
 Aspirin
-Vodka
-Stupid hat
+Cheese
 Cornflakes
+Haribo
+Socks
+Stupid hat
+Vodka
