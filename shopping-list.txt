@@ -5,3 +5,4 @@ Cheese
 Socks
 Aspirin
 Vodka
+Gaffer tape
