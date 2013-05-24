@@ -1,6 +1,7 @@
-Haribo
-Cheese
-Socks
 Aspirin
-Vodka
+Cheese
+Haribo
+Socks
 Stupid hat
+Vodka
+
